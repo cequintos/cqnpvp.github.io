@@ -1,18 +1,8 @@
-**Date of birth:** 02 Nov. 2002
-
-**Nacionality:** Peruvian, Spanish
-
-**Address:** Barcelona, Spain
-
-| Linkedin | Discord |
-| --- | --- |
-| <img src="img/linkedin.png" alt="Linkedin" width="100"> | <img src="img/discord.png" alt="Discord" width="100"> |
-
 ## Work Experience
 
 ### It Systems Technician
 
-13 Sep. 2021 - 04 Mar 2022 Barcelona, Spain
+[13/09/2021 - 04/03/2022]
 
 [Hospital Quiron Salud](https://www.quironsalud.es/hospital-barcelona) - [Plaça d'Alfons Comín, 5, 08023 Barcelona](https://goo.gl/maps/ad9xntYLd9Kv56on8)
 
@@ -33,6 +23,14 @@ Collaboration in the planning, maintenance and proper functioning of the center'
     - Coordinate implementation of computer applications.
     - Training of users for the use of computer applications.
 ]:#
+
+### Computer Equipment Assembly and Maintenance Assistant
+
+[13/12/2019 - 04/03/2020]
+
+[Institut Escola Tritinat Nova](https://agora.xtec.cat/ietn/)
+
+Auxiliary operations of assembly and maintenance of microcomputer systems, peripherals and data communication networks.
 
 ## Education and Training
 
