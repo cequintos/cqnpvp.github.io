@@ -6,6 +6,8 @@
 
 [Hospital Quiron Salud](https://www.quironsalud.es/hospital-barcelona) - [Plaça d'Alfons Comín, 5, 08023 Barcelona](https://goo.gl/maps/ad9xntYLd9Kv56on8)
 
+**Sector:** Human health and social work activities
+
 Collaboration in the planning, maintenance and proper functioning of the center's hardware and software systems to ensure proper functioning of the services/departments.
 
 [
