@@ -18,19 +18,21 @@
 
 Collaboration in the planning, maintenance and proper functioning of the center's hardware and software systems to ensure proper functioning of the services/departments.
 
-[#### Functions
-- Maintenance and management of Hardware and Software of equipment, servers and networks.
-- Installation and configuration of equipment at hardware and software level.
-- Server and network administration.
-- Integration of communcations equipment in telematic network infrastructures, determining the configuration to ensure their connectivity.
-- Manage users, according to the operating specifications to guarantee access and availability of systems resources.
-- Manage network services, installing and configuring the software in quality conditions.
-- Determine the infrastructure of telematic networks, drawing up schemes and selecting equipment and elements.
-- Management of incidents.
-- Diagnosis of systems malfunctions and adoption of corrective measuresd to restore its functionality.
-- Development of procedures and software use manuals.
-- Coordinate implementation of computer applications.
-- Training of users for the use of computer applications.]:#
+[
+    #### Functions
+    - Maintenance and management of Hardware and Software of equipment, servers and networks.
+    - Installation and configuration of equipment at hardware and software level.
+    - Server and network administration.
+    - Integration of communcations equipment in telematic network infrastructures, determining the configuration to ensure their connectivity.
+    - Manage users, according to the operating specifications to guarantee access and availability of systems resources.
+    - Manage network services, installing and configuring the software in quality conditions.
+    - Determine the infrastructure of telematic networks, drawing up schemes and selecting equipment and elements.
+    - Management of incidents.
+    - Diagnosis of systems malfunctions and adoption of corrective measuresd to restore its functionality.
+    - Development of procedures and software use manuals.
+    - Coordinate implementation of computer applications.
+    - Training of users for the use of computer applications.
+]:#
 
 ## Education and Training
 
