@@ -4,33 +4,23 @@
 
 [13/09/2021 - 04/03/2022]
 
-[Hospital Quiron Salud](https://www.quironsalud.es/hospital-barcelona) - [Plaça d'Alfons Comín, 5, 08023 Barcelona](https://goo.gl/maps/ad9xntYLd9Kv56on8)
+[Hospital Quiron Salud](https://www.quironsalud.es/hospital-barcelona)
+
+**Address:** [Plaça d'Alfons Comín, 5, 08023, Barcelona, Spain](https://goo.gl/maps/ad9xntYLd9Kv56on8)
 
 **Sector:** Human health and social work activities
 
 Collaboration in the planning, maintenance and proper functioning of the center's hardware and software systems to ensure proper functioning of the services/departments.
-
-[
-    #### Functions
-    - Maintenance and management of Hardware and Software of equipment, servers and networks.
-    - Installation and configuration of equipment at hardware and software level.
-    - Server and network administration.
-    - Integration of communcations equipment in telematic network infrastructures, determining the configuration to ensure their connectivity.
-    - Manage users, according to the operating specifications to guarantee access and availability of systems resources.
-    - Manage network services, installing and configuring the software in quality conditions.
-    - Determine the infrastructure of telematic networks, drawing up schemes and selecting equipment and elements.
-    - Management of incidents.
-    - Diagnosis of systems malfunctions and adoption of corrective measuresd to restore its functionality.
-    - Development of procedures and software use manuals.
-    - Coordinate implementation of computer applications.
-    - Training of users for the use of computer applications.
-]:#
 
 ### Computer Equipment Assembly and Maintenance Assistant
 
 [13/12/2019 - 04/03/2020]
 
 [Institut Escola Tritinat Nova](https://agora.xtec.cat/ietn/)
+
+**Address:** [Carrer de la Pedrosa, 2, 08033, Barcelona, Spain](https://goo.gl/maps/JNUhmCA6iTVCRqHi7)
+
+**Sector:** Education
 
 Auxiliary operations of assembly and maintenance of microcomputer systems, peripherals and data communication networks.
 
