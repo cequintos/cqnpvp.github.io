@@ -25,14 +25,14 @@ platforms:
     link: https://www.instagram.com/cqnpvp/
 
 navigation:
-  - name: Work Experience
-    link: ./index.html#work-experience
-#    sublist:
-#      - name: It Systems Techinician
-#        link: ./index.html#it-systems-technician
-  - name: Education and Training
-    link: ./index.html#education-and-training
-  - name: Language Skills
-    link: ./index.html#language-skills
-  - name: Digital Skills
-    link: ./index.html#digital-skills
+  - name: Home
+    link: ./index.html
+    sublist:      
+      - name: Work Experience
+        link: ./index.html#work-experience
+      - name: Education and Training
+        link: ./index.html#education-and-training
+      - name: Language Skills
+        link: ./index.html#language-skills
+      - name: Digital Skills
+        link: ./index.html#digital-skills
