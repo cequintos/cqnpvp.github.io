@@ -28,46 +28,39 @@ Auxiliary operations of assembly and maintenance of microcomputer systems, perip
 
 ### Superior Technician in Network Computer Systems Administration
 
-07 Sep. 2022 - Current - Barcelona, Spain
+[07/09/2022 - Current]
 
-[Institut Tecnològic de Barcelona](https://www.itb.cat/) - [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
+[Institut Tecnològic de Barcelona](https://www.itb.cat/)
+
+**Address:** [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
 
 Security analysis and proposing solutions to detected cyberattacks, recognizing their origin and reasons; define and implement secure operation for mobile and other (IoT) devices, and secure network services to ensure their security.
 
 ### Technician in Microcomputers Systems and Networks
 
-13 Sep. 2021 - 21 Jun. 2022 - Barcelona, Spain
+[13/09/2021 - 21/06/2022]
 
-[Institut Tecnològic de Barcelona](https://www.itb.cat/) - [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
+[Institut Tecnològic de Barcelona](https://www.itb.cat/)
+
+**Address:** [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
 
 Vocational Training, Secondary Education Cycle.
 
-[
-    #### Functions
-    - Determination of the logistics associated with the installation, configuration and maintenance operations of microcomputer systems.
-    - Configuration of computer networks and installation cabling.
-    - Server administration.
-    - Installation, configuration and maintenance of multi-user services, applications and shared devices in a local network environment.
-    - Basic knowledge of programming languages.
-]:#
 ### Computer Equipment Assembly and Maintenance Assistant
 
-09 Sep. 2019 - 21 Jul. 2020 - Barcelona, Spain
+[09/09/2019 - 21/06/2020]
 
-[Institut Tecnològic de Barcelona](https://www.itb.cat/) - [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
+[Institut Tecnològic de Barcelona](https://www.itb.cat/)
+
+**Address:** [Carrer d'Aiguablava, 121, Barcelona, Spain](https://g.page/itecbcn?share)
 
 Auxiliary operations of assembly and maintenance of microcomputer systems, peripherals and data communication networks.
 
-[
-    #### Functions
-    - Assembly and maintenance of computer systems and components.
-    - Assistant operations for configuration and operation.
-    - Installation and maintenance of networks for data transmission.
-]:#
-
 ## Language Skills
 
-Mother tongue(s): **Spanish**, **Catalan**
+**Mother tongue(s):** Spanish, Catalan
+
+**Other language(s):** English
 
 | Language | Listening | Reading | Spoken production | Spoken interaction | Writing |
 | --- | --- | --- | --- | --- | --- |
@@ -75,26 +68,26 @@ Mother tongue(s): **Spanish**, **Catalan**
 
 ## Digital Skills
 
-**Operative Systems**
+#### Operative Systems
 
 ~~~
-Linux | Windows / Windows Server | Unix
+Linux · Windows / Windows Server · Unix
 ~~~
 
-**Programming Languages**
+#### Programming Languages
 
 ~~~
-Python | Bash | HTML / CSS | JSON
+Python · Bash · HTML / CSS · JSON
 ~~~
 
-**Databases**
+#### Databases
 
 ~~~
-MySQL | Postgres SQL | MariaDB
+MySQL · Postgres SQL · MariaDB
 ~~~
 
-**Others technologies**
+#### Others technologies
 
 ~~~
-Git | Samba / Active Directory | Office | Filezilla Server | Virtual Box | Ventoy | SSH | Clonezilla | Hiren's Boot
+Git · Samba / Active Directory · Office · Filezilla Server · Virtual Box · Ventoy · SSH · Clonezilla · Hiren's Boot
 ~~~
