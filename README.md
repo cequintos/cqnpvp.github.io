@@ -52,14 +52,14 @@ Security analysis and proposing solutions to detected cyberattacks, recognizing 
 
 Vocational Training, Secondary Education Cycle.
 
-#### Functions
-
-- Determination of the logistics associated with the installation, configuration and maintenance operations of microcomputer systems.
-- Configuration of computer networks and installation cabling.
-- Server administration.
-- Installation, configuration and maintenance of multi-user services, applications and shared devices in a local network environment.
-- Basic knowledge of programming languages.
-
+[
+    #### Functions
+    - Determination of the logistics associated with the installation, configuration and maintenance operations of microcomputer systems.
+    - Configuration of computer networks and installation cabling.
+    - Server administration.
+    - Installation, configuration and maintenance of multi-user services, applications and shared devices in a local network environment.
+    - Basic knowledge of programming languages.
+]:#
 ### Computer Equipment Assembly and Maintenance Assistant
 
 09 Sep. 2019 - 21 Jul. 2020 - Barcelona, Spain
@@ -68,11 +68,12 @@ Vocational Training, Secondary Education Cycle.
 
 Auxiliary operations of assembly and maintenance of microcomputer systems, peripherals and data communication networks.
 
-#### Functions
-
-- Assembly and maintenance of computer systems and components.
-- Assistant operations for configuration and operation.
-- Installation and maintenance of networks for data transmission.
+[
+    #### Functions
+    - Assembly and maintenance of computer systems and components.
+    - Assistant operations for configuration and operation.
+    - Installation and maintenance of networks for data transmission.
+]:#
 
 ## Language Skills
 
