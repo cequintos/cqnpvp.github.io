@@ -18,8 +18,7 @@
 
 Collaboration in the planning, maintenance and proper functioning of the center's hardware and software systems to ensure proper functioning of the services/departments.
 
-#### Functions
-
+[#### Functions
 - Maintenance and management of Hardware and Software of equipment, servers and networks.
 - Installation and configuration of equipment at hardware and software level.
 - Server and network administration.
@@ -31,7 +30,7 @@ Collaboration in the planning, maintenance and proper functioning of the center'
 - Diagnosis of systems malfunctions and adoption of corrective measuresd to restore its functionality.
 - Development of procedures and software use manuals.
 - Coordinate implementation of computer applications.
-- Training of users for the use of computer applications.
+- Training of users for the use of computer applications.]:#
 
 ## Education and Training
 
