@@ -1,0 +1,34 @@
+title: Carlos Quintos Nores
+logo:
+email: 90f0ad@gmail.com
+lang: es-ES
+description: I'm a Linux and Open Source lover
+favicon: true
+color-scheme: dark
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+platforms:
+  - name: Resume
+    icon: <i class="fa-solid fa-file-lines"></i>
+    link: ./carlosquintos-cv.pdf
+  - name: Github
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/cqnpvp
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/cqnpvp/
+  - name: Twitter
+    icon: <i class="fa-brands fa-twitter"></i>
+    link: https://www.twitter.com/cqnpvp/
+  - name: Instagram
+    icon: <i class="fa-brands fa-instagram"></i>
+    link: https://www.instagram.com/cqnpvp/
+
+navigation:
+  - name: Work Experience
+    link: ./index.html#work-experience
+    sublist:
+      - name: It Systems Techinician
+        link: ./index.html#it-systems-technician
+  - name: Education and Training
+    link: ./index.html#education-and-training
