@@ -11,15 +11,18 @@ platforms:
   - name: Resume
     icon: <i class="fa-solid fa-file-lines"></i>
     link: ./carlosquintos-cv.pdf
-  - name: Github
-    icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/cqnpvp
+  - name: Gitlab
+    icon: <i class="fa-brands fa-gitlab"></i>
+    link: https://gitlab.com/cqnpvp
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/cqnpvp/
   - name: Twitter
     icon: <i class="fa-brands fa-twitter"></i>
-    link: https://www.twitter.com/cqnpvp/
+    link: https://twitter.com/cqnpvp/
+  - name: YouTube
+    icon: <i class="fa-brands fa-youtube"></i>
+    link: https://www.youtube.com/@cqnpvp
   - name: Instagram
     icon: <i class="fa-brands fa-instagram"></i>
     link: https://www.instagram.com/cqnpvp/
