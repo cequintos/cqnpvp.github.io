@@ -91,3 +91,5 @@ MySQL · Postgres SQL · MariaDB
 ~~~
 Git · Samba / Active Directory · Office · Filezilla Server · Virtual Box · Ventoy · SSH · Clonezilla · Hiren's Boot
 ~~~
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7JURVR)
