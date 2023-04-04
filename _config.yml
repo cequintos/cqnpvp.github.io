@@ -4,7 +4,7 @@ email: 90f0ad@gmail.com
 lang: es-ES
 description: I'm a Linux and Open Source lover
 favicon: true
-color-scheme: dark
+color-scheme: auto
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 platforms:
