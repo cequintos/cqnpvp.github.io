@@ -13,7 +13,7 @@ platforms:
     link: ./carlosquintos-cv.pdf
   - name: Routine
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./cqn-routine.pdf
+    link: ./routine.pdf
   - name: Gitlab
     icon: <i class="fa-brands fa-gitlab"></i>
     link: https://gitlab.com/cqnpvp
