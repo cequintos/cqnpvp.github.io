@@ -2,7 +2,7 @@ title: Carlos Quintos Nores
 logo:
 email: 90f0ad@gmail.com
 lang: es-ES
-description: I'm a Linux and Open Source lover
+description: Studying to become Superior Technician in Networked Computer Systems Administration / CFPM IC10 / IFC361_1
 favicon: true
 color-scheme: auto
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
@@ -10,10 +10,10 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 platforms:
   - name: Resume
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./carlosquintos-cv.pdf
+    link: ./pdf/carlosquintos-cv.pdf
   - name: Routine
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: ./routine.pdf
+    link: ./pdf/routine.pdf
   - name: Gitlab
     icon: <i class="fa-brands fa-gitlab"></i>
     link: https://gitlab.com/cqnpvp
