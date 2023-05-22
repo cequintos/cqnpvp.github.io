@@ -71,13 +71,13 @@ Auxiliary operations of assembly and maintenance of microcomputer systems, perip
 #### Operative Systems
 
 ~~~
-Linux · Windows / Windows Server · Unix
+Linux · Windows / Windows Server · Unix · Mac OS
 ~~~
 
 #### Programming Languages
 
 ~~~
-Python · Bash · HTML / CSS · JSON
+Python · Bash · HTML5 · CSS · JSON
 ~~~
 
 #### Databases
@@ -89,7 +89,7 @@ MySQL · Postgres SQL · MariaDB
 #### Others technologies
 
 ~~~
-Git · Samba / Active Directory · Office · Filezilla Server · Virtual Box · Ventoy · SSH · Clonezilla · Hiren's Boot
+`Git` · Samba / Active Directory · Office · Filezilla Server · Virtual Box · Ventoy · SSH · Clonezilla · Hiren's Boot
 ~~~
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7JURVR)-->
