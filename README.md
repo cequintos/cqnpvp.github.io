@@ -89,7 +89,7 @@ MySQL · Postgres SQL · MariaDB
 #### Others technologies
 
 ~~~
-`Git` · Samba / Active Directory · Office · Filezilla Server · Virtual Box · Ventoy · SSH · Clonezilla · Hiren's Boot
+Git · Samba / Active Directory · SaaS · Filezilla Server · Virtual Box · Ventoy · SSH · Clonezilla · Hiren's Boot
 ~~~
 
 <!--[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7JURVR)-->
